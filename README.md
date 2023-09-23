@@ -1,14 +1,20 @@
 # Pemrograman Berbasis Objek - TI 2C
 
-<img src="/img/imam.JPG" alt="Mochamad Imam Hanafi" width="150"> <br>
+<img src="/img/java.png" alt="Java" width="150"> <br>
 
 ## Biografi
+
+<div>
+    <img src="/img/imam.JPG" alt="Mochamad Imam Hanafi" width="150"> <br>
+    <img src="/img/polinema.png" alt="Polinema" width="150"> <br>
+</div>
 
 - Nama &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mochamad Imam Hanafi
 - Kelas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: TI-2C
 - Jurusan &nbsp;&nbsp;&nbsp;: Teknologi Informasi
 - Prodi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: D-IV Teknik Informatika
 - Instansi &nbsp;&nbsp;&nbsp;: Politeknik Negeri Malang
+- NIM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 2241720151
 - Angkatan : 2022
 
 ## Deskripsi
