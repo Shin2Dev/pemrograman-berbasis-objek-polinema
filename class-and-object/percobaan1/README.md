@@ -1,6 +1,6 @@
 # Percobaan 1: Membuat Class Diagram
 
-Studi Kasus 1:
+Studi Kasus 1: <br>
 Dalam suatu perusahaan salah satu data yang diolah adalah data karyawan. Setiap karyawan memiliki id, nama, jenis kelamin, jabatan, jabatan, dan gaji. Setiap mahasiswa juga bisa menampilkan data diri pribadi dan melihat gajinya.
 
 1. Gambarkan desain class diagram dari studi kasus 1!,
