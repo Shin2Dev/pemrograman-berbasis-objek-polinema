@@ -22,7 +22,7 @@ Tujuan utama repository ini adalah untuk mendokumentasikan dan juga sebagai peng
 ## Daftar Materi
 
 1. Pengantar Konsep Dasar Object Oriented Programming (OOP)
-2. Class dan Object
+2. [Class dan Object](/class-and-object/)
 3. Encapsulation
 4. Relasi Kelas
 5. Inheritance
