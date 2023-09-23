@@ -23,7 +23,7 @@ Tujuan utama repository ini adalah untuk mendokumentasikan dan juga sebagai peng
 
 1. Pengantar Konsep Dasar Object Oriented Programming (OOP)
 2. [Class dan Object](/class-and-object/)
-3. Encapsulation
+3. [Encapsulation](/encapsulation/)
 4. Relasi Kelas
 5. Inheritance
 6. Overriding dan Overloading
