@@ -3,11 +3,13 @@
 <img src="/img/java.png" alt="Java" width="150"> <br>
 
 ## Biografi
+<table style="border-collapse: collapse;">
+    <tr>
+        <td><img src="/img/imam.JPG" alt="Mochamad Imam Hanafi" width="150"></td>
+        <td><img src="/img/polinema.png" alt="Polinema" width="150"></td>
+    </tr>
+</table>
 
-<div>
-    <img src="/img/imam.JPG" alt="Mochamad Imam Hanafi" width="150"> <br>
-    <img src="/img/polinema.png" alt="Polinema" width="150"> <br>
-</div>
 
 - Nama &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mochamad Imam Hanafi
 - Kelas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: TI-2C
