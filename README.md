@@ -3,13 +3,13 @@
 <img src="/img/java.png" alt="Java" width="150"> <br>
 
 ## Biografi
+
 <table style="border-collapse: collapse;">
     <tr>
         <td><img src="/img/imam.JPG" alt="Mochamad Imam Hanafi" width="150"></td>
         <td><img src="/img/polinema.png" alt="Polinema" width="150"></td>
     </tr>
 </table>
-
 
 - Nama &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Mochamad Imam Hanafi
 - Kelas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: TI-2C
@@ -32,7 +32,7 @@ Tujuan utama repository ini adalah untuk mendokumentasikan dan juga sebagai peng
 1. Pengantar Konsep Dasar Object Oriented Programming (OOP)
 2. [Class dan Object](/class-and-object/)
 3. [Encapsulation](/encapsulation/)
-4. Relasi Kelas
+4. [Relasi Kelas](/relasi-kelas/)
 5. Inheritance
 6. Overriding dan Overloading
 7. ...
