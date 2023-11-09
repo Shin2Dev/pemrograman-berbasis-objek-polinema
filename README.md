@@ -33,6 +33,8 @@ Tujuan utama repository ini adalah untuk mendokumentasikan dan juga sebagai peng
 2. [Class dan Object](/class-and-object/)
 3. [Encapsulation](/encapsulation/)
 4. [Relasi Kelas](/relasi-kelas/)
-5. Inheritance
-6. Overriding dan Overloading
-7. ...
+5. [Kuis 1](/quiz1/)
+6. Inheritance
+7. Overriding dan Overloading
+8. [UTS](/uts/)
+9. ...
